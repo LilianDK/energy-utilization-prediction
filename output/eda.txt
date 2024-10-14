@@ -1,0 +1,8 @@
+      date                 year             day         yearday       country              a_sum        
+ Min.   :2015-01-01   Min.   :2015   Friday   :300   0101   :   6   Length:2100        Min.   : 934864  
+ 1st Qu.:2016-06-08   1st Qu.:2016   Monday   :300   0102   :   6   Class :character   1st Qu.:1209923  
+ Median :2017-11-15   Median :2017   Saturday :300   0103   :   6   Mode  :character   Median :1362646  
+ Mean   :2017-11-15   Mean   :2017   Sunday   :300   0104   :   6                      Mean   :1331819  
+ 3rd Qu.:2019-04-24   3rd Qu.:2019   Thursday :300   0105   :   6                      3rd Qu.:1450322  
+ Max.   :2020-09-30   Max.   :2020   Tuesday  :300   0106   :   6                      Max.   :1636406  
+                                     Wednesday:300   (Other):2064                                       
